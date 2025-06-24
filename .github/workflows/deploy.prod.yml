@@ -33,7 +33,7 @@ jobs:
       - name: Build
         run: yarn build
         env:
-          VUE_APP_DOMAIN: tempo.agate.blue
+          VUE_APP_DOMAIN: https://corvusdeinanis.github.io/tempo
           VUE_APP_PLAUSIBLE_HOST: https://stats.agate.blue
           VUE_APP_BUILD_ID: ${{ github.sha }}
 
