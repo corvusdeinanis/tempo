@@ -1,5 +1,7 @@
 # Tempo - your personal diary and mood tracker
 
+Note: [https://github.com/agateblue/tempo][Tempo] has been archived by AgateBlue as of June 2025.
+
 Tempo is a diary, mood tracker and Kanban board. Its main goals are to help you:
 
 - Keep, organize and find your writings, logs or whatever piece of text you want
